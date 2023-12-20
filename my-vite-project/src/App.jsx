@@ -11,6 +11,7 @@ function App() {
       <div> 2번째</div>
       <div> 3번째</div>
       <div>문제발생</div>
+      <div>문제발생2</div>
     </>
   );
 }
