@@ -12,6 +12,7 @@ function App() {
       <div> 3번째</div>
       <div>문제발생</div>
       <div>문제발생2</div>
+      <div>삭제한 브랜치 복구</div>
     </>
   );
 }
