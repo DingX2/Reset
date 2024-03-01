@@ -40,5 +40,10 @@ Merge pull request #11 from DingX2/dev
 # Rebase 
 rebase -i drop은 commit 기록이 남지 않음
 현재 dev 브랜치에 작성된 아래에 도넛이 3개있나?
+도넛을 삭제해본다. 
+도넛을 삭제한 커밋명은 : fd084c7e29f004943ee7f0f1f39a676a89f9d7a9
+도넛이 있는 커밋명은 : 11510edb1a0761963158d86e8277f77c2b14e043
+
+ 
 
 도넛도넛도넛 
