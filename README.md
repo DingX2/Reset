@@ -59,3 +59,8 @@ rebase -i drop은 commit 기록이 남지 않음
 
 이번엔 edit로 이전 커밋만 변경해보려고 한다.
 test.ts 파일을 추가한다.
+test에 아래와 같은 작업 사항을 만들어준다.
+
+// 더 작업하였다... 이 내용은 삭제해야한다.
+
+git rebase -i HEAD~5
