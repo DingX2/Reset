@@ -64,3 +64,5 @@ test에 아래와 같은 작업 사항을 만들어준다.
 // 더 작업하였다... 이 내용은 삭제해야한다.
 
 git rebase -i HEAD~5
+
+First message
