@@ -66,3 +66,4 @@ test에 아래와 같은 작업 사항을 만들어준다.
 git rebase -i HEAD~5
 
 First message
+Change!!
