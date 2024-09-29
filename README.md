@@ -67,3 +67,4 @@ git rebase -i HEAD~5
 
 First message
 Change!!
+Third message
